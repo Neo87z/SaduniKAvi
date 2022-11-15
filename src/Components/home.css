@@ -1,0 +1,7 @@
+.homepage{
+    height: 600px;
+    background-image: url('./bg.jpg');
+    background-size: 100%;
+    max-height: inherit;  
+
+}

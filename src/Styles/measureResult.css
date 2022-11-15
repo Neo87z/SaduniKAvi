@@ -1,0 +1,35 @@
+.details {
+    float: right;
+    background-color: rgb(140, 230, 200);
+    width: 40%;
+    height: 200px;
+}
+
+.xray-img {
+    margin: 40px 20px 20px 20px;
+    width: auto;
+    height: 160px;
+}
+
+.img-frame {
+    width: 85%;
+    height: 200px;
+}
+
+.form-div {
+    float: right;
+    width: 250px;
+    
+}
+
+.bottom-div {
+    margin: 40px 20px;
+}
+
+.f {
+    float: left;
+}
+
+.b {
+    display: contents;
+}
